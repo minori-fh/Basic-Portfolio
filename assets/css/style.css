@@ -71,3 +71,55 @@ footer {
     padding-top: 2.5%;
     padding-bottom: 4px;
 }
+
+#aboutMe {
+    background-color: #ffffff;
+    margin: 0 auto; 
+    width: 960px;
+    height: 350px;
+    position: relative;
+    z-index: 1;
+    top: 40px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+  
+#Portfolio {
+    background-color: #ffffff;
+    margin: 0 auto; 
+    width: 960px;
+    height: 700px;
+    position: relative;
+    z-index: 1;
+    top: 40px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+main {
+    width: 100%;
+    height: 100vh;
+}
+  
+.title {
+    color: #4aaaa5;
+    padding: 20px;
+    border-bottom: solid #cccccc 2px;
+} 
+  
+.propic {
+    float: left;
+    margin-right: 15px;
+}
+
+.propic {
+    float: left;
+    margin-right: 15px;
+}
+
+.clearfix {
+    overflow: auto;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #666666;
+    line-height: 25px;
+}
