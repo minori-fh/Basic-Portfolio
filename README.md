@@ -8,7 +8,7 @@
 ## Description of Site
 A basic portfolio for the purpose of: 
 1. Practicing newly learned skills in html and css
-2. Expand on with future content to be added
+2. Expanding on with future content to be added
 
 ## Technologies Used
 1. HTML 
